@@ -1,6 +1,6 @@
 * {
     margin: 0px;
-    font-size: 20px;
+    font-size: 24px;
 }
 
 body {
@@ -71,6 +71,12 @@ header p {
     align-items: center;
     flex-direction: column;
     margin: 24px 0px 24px 0px;
+}
+.description {
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    width: 50%;
 }
 
 footer {
